@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad5b948d-e8b3-4087-b7ca-14234cc900b8" name="Changes" comment="" />
+    <list default="true" id="ad5b948d-e8b3-4087-b7ca-14234cc900b8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movie-info-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/movie-info-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movie-info-service/src/main/java/io/nickdongo/movieinfoservice/MovieInfoServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/movie-info-service/src/main/java/io/nickdongo/movieinfoservice/MovieInfoServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movie-info-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/movie-info-service/src/main/resources/application.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +24,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
       <filtered-out-file-type name="LOCAL_BRANCH" />
@@ -26,17 +36,22 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="1zv8wqDSJi6zvQlwuExz2CXqwwD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_directory_selection" value="$USER_HOME$/Downloads/movie-info-service/src/main/java/io/nickdongo/movieinfoservice" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -97,12 +112,26 @@
       <workItem from="1635017449115" duration="20430000" />
       <workItem from="1635884099957" duration="35000" />
       <workItem from="1635963498069" duration="28731000" />
-      <workItem from="1636664489875" duration="1285000" />
+      <workItem from="1636664489875" duration="6096000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
