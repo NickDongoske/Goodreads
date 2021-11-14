@@ -42,6 +42,7 @@ public class MovieCatalogResource {
     }
 }
 
+//
     //Movie movie = webClientBuilder.build()
 //                  .get()
 //                  .uri("http://localhost:8082/movies/" + rating.getMovieId())
