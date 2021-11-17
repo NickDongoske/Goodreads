@@ -5,6 +5,7 @@ import io.nickdongo.moviecatalogservice.models.Movie;
 import io.nickdongo.moviecatalogservice.models.Rating;
 import io.nickdongo.moviecatalogservice.models.UserRating;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.cloud.client.loadbalancer.LoadBalanced;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
@@ -25,6 +26,10 @@ public class MovieCatalogResource {
 
     @Autowired
     WebClient.Builder webClientBuilder;
+
+    @Autowired
+    @LoadBalanced
+    private RestTemplate loadBalanced;
 
     @RequestMapping("/{userId}")
     public List<CatalogItem> getCatalog(@PathVariable("userId") String userId) {
