@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="movie-info-service-0.0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/movie-info-service-0.0.1-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="jar://$PROJECT_DIR$/lib/movie-info-service-0.0.1-SNAPSHOT.jar!/" recursive="false" />
+  </library>
+</component>
